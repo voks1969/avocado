@@ -3,10 +3,10 @@
  */
 
 /* This is sample of audio media player that uses stream as input.
- * API level 23 provides MediaDataSource. however id support of API < 23 is required
- * it is not acceptable.
- * The workarouns is to use "fake" local media server -
- * see see com.example.voks1969.audioplayer.MediaStreamProxy class
+ * API level 23 provides MediaDataSource. However if support of API < 23 is required
+ * it's not acceptable.
+ * The workaround is to use "fake" local media server -
+ * see com.example.voks1969.audioplayer.MediaStreamProxy class
 */
 
 package com.example.voks1969.audioplayer;
